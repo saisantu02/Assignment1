@@ -10,4 +10,6 @@ function colorofVeg(veg)
     };
     return `Color of ${veg} is ${vegetables[veg]}`;
 }
-console.log(colorofVeg("Tomato"));
+console.log(colorofVeg("Carrot"));
+
+//ghj
